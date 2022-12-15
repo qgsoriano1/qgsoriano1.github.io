@@ -1,4 +1,6 @@
 <h1 style="color:green;"> FINAL PROJECT ON CPE 232 </h1>
+<h2 style="color:blue;"> Gabriel Soriano </h2>
+<h2 style="color:blue;"> CPE31S23 </h2>
 
 <img src="idpicpng.png" width="100" height="100">
 <body style="background-color:lightblue;">
