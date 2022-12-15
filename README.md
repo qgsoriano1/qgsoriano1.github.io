@@ -1,4 +1,4 @@
-<h1>FINAL PROJECT ON CPE 232 </h1>
+<h1 style="background-color:green;"> FINAL PROJECT ON CPE 232 </h1>
 
 <img src="idpicpng.png" width="100" height="100">
 <body style="background-color:lightblue;">
