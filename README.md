@@ -2,7 +2,7 @@
 
 <img src="idpicpng.png" width="100" height="100">
 
-<p style="color:green;"><a href="https://github.com/qgsoriano1/cpe_soriano_ansible.git"> Ansible </a></p>
+<p><a href="https://github.com/qgsoriano1/cpe_soriano_ansible.git"> Ansible </a></p>
 <p><a href="https://github.com/qgsoriano1/testAnsible.git"> Test Ansible </a></p>
 <p><a href="https://github.com/qgsoriano1/CPE232_Soriano.git"> CPE232 Soriano </a></p>
 <p><a href="https://github.com/qgsoriano1/Soriano_PrelimExam.git"> Prelim Exam </a></p>
