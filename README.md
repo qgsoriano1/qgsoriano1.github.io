@@ -1,7 +1,7 @@
 <h1>FINAL PROJECT ON CPE 232 </h1>
 
 <img src="idpicpng.png" width="100" height="100">
-
+<body style="background-color:lightblue;">
 <p><a href="https://github.com/qgsoriano1/cpe_soriano_ansible.git"> Ansible </a></p>
 <p><a href="https://github.com/qgsoriano1/testAnsible.git"> Test Ansible </a></p>
 <p><a href="https://github.com/qgsoriano1/CPE232_Soriano.git"> CPE232 Soriano </a></p>
